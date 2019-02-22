@@ -11,6 +11,7 @@ public class MybatisSpringBootDemoXmlApplicationTests {
 
     @Test
     public void contextLoads() {
+
     }
 
 }
